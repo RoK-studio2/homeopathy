@@ -1,19 +1,16 @@
-# Mises à jour - Application Homeopathy
+# Обновления - Проложение Гомеопатический справочник
 
-Ce dépôt privé contient les mises à jour techniques et fonctionnelles de mon application dédiée à l’homéopathie.
+Этот репозиторий содержит технические и функциональные обновления приложения от RoK-studio, посвящённого гомеопатии.
 
-## 💾 Contenu
-- 📁 Code source
-- 🔧 Scripts de maintenance
-- 📦 Dépendances
+## 💾 Содержимое
+- 📁 Исходный код
+- 🔧 Скрипты обслуживания
+- 📦 Зависимости
 
-## 🗓️ Journal des MàJ
-- 2025-07-23 : Initialisation du dépôt
-- 2025-07-24 : Ajout des premiers fichiers
-
-## 🔐 Usage
-Ce dépôt est strictement privé. Ne pas partager sans mon autorisation.
+## 🗓️ Журнал обновлений
+- 23.07.2025: Инициализация репозитория
+- 24.07.2025: Добавлены первые файлы
 
 ---
 
-🌿 Projet en cours de développement personnel.
+🌿 Проект находится в стадии разработки (beta).
