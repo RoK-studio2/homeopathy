@@ -1,0 +1,11 @@
+2025-07-25 11:33:34,006 INFO Chargement des donn\xe9es
+2025-07-25 11:33:34,006 INFO Validation des donn\xe9es termin\xe9e
+2025-07-25 11:33:34,064 INFO 2 favoris charg\xe9s
+2025-07-25 11:33:35,062 INFO Application d\xe9marr\xe9e
+2025-07-25 11:33:35,176 INFO Application principale lanc\xe9e
+2025-07-25 11:33:37,237 INFO Recherche lanc\xe9e : 'a'
+2025-07-25 11:33:37,237 INFO Aucun r\xe9sultat trouv\xe9
+2025-07-25 11:33:37,385 INFO Recherche lanc\xe9e : 'ac'
+2025-07-25 11:33:37,422 INFO 15 r\xe9sultats trouv\xe9s
+2025-07-25 11:33:38,359 INFO Affichage d\xe9tails : Tabacum
+2025-07-25 11:33:40,340 INFO D\xe9j\xe0 dans les favoris : Tabacum
